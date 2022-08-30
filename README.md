@@ -12,7 +12,7 @@ We had a time frame of a week . This was the first Peer Programming for all of u
 
 
  - [ Github Repo link](https://github.com/Harshvyas2704/unit2-project-banggood.git)
- - [ Netlify link](https://github.com/Harshvyas2704/unit2-project-banggood.git)
+ - [ Github Deploy Link link](https://harshvyas2704.github.io/unit2-project-banggood/)
 
 
 ## Color Reference
